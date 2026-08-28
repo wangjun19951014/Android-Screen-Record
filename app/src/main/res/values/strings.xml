@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SecureScreenRecord</string>
+
+    <string name="notification_channel_name">屏幕录制</string>
+
+    <string name="notification_title_starting">正在初始化</string>
+    <string name="notification_content_starting">正在准备屏幕录制</string>
+
+    <string name="notification_title_recording">正在录制屏幕</string>
+    <string name="notification_content_recording">计划时长 %1$d 秒</string>
+
+    <string name="notification_title_stopping">正在保存</string>
+    <string name="notification_content_stopping">正在完成视频封装</string>
+
+    <string name="notification_title_stopped">录制完成</string>
+    <string name="notification_content_stopped">录制已保存</string>
+
+    <string name="notification_title_failed">录制失败</string>
+    <string name="notification_content_failed">请查看日志了解详情</string>
+
+    <string name="status_label">服务状态</string>
+    <string name="status_output_file_label">最近输出文件</string>
+    <string name="status_last_error_label">最近错误</string>
+    <string name="status_adb_hint">请使用 ADB 控制录制</string>
+</resources>

@@ -1,3 +1,7 @@
+
+/local.properties
+.DS_Store
+
 # Gradle files
 .gradle/
 build/
